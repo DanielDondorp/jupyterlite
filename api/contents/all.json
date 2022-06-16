@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-16T12:27:00.806460Z",
+      "created": "2022-06-16T12:34:15.395062Z",
       "format": null,
-      "last_modified": "2022-06-16T12:26:58.162441Z",
-      "mimetype": null,
-      "name": "content",
-      "path": "content",
+      "last_modified": "2022-06-16T12:34:13.415024Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
       "size": 941,
       "type": "file",
       "writable": true
     }
   ],
-  "created": "2022-06-16T12:27:00.806460Z",
+  "created": "2022-06-16T12:34:15.395062Z",
   "format": "json",
-  "last_modified": "2022-06-16T12:27:00.806460Z",
+  "last_modified": "2022-06-16T12:34:15.395062Z",
   "mimetype": null,
   "name": "",
   "path": "",
